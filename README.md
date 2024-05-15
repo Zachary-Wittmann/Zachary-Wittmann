@@ -9,7 +9,7 @@ I enjoy self-improvement and I take pride in always striving to do better than I
 <br/>I love honing my skills and techniques to become better.
 
 ## 📼 Personal Projects
-### 🌹 [RWBY Remnant Royale](https://github.com/Zachary-Wittmann/RWBY-Remnant-Royale) <sub>Created: April 12<sup>th</sup>, 2024</sub>
+### 🌹 RWBY Remnant Royale <sub>Created: April 12<sup>th</sup>, 2024</sub>
 * A fanmade game clone of Vampire Survivors in the style of RWBY made in Unity
 
 ### 🛡️ [PALADIN SYSTEM](https://github.com/Zachary-Wittmann/Hackathons/tree/main/PALADIN%20SYSTEM) <sub>Created: March 23<sup>rd</sup>, 2024</sub>
