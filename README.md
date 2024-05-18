@@ -9,15 +9,16 @@ I enjoy self-improvement and I take pride in always striving to do better than I
 <br/>I love honing my skills and techniques to become better.
 
 ## 📼 Personal Projects
+### ⚔️ [ARES SYSTEM](https://github.com/Zachary-Wittmann/Personal-Projects/tree/main/ARES%20SYSTEM) <sub>Created: May 17<sup>th</sup>, 2024</sub>
+* The **A**ssessment of **R**etrospective **E**ngagement **S**cenarios or ARES System is a work in progress that aims to analyze prior engagements throughout different wars in history and try to find patterns between the outcomes of those engagements and the factors that composed the battle.
+
 ### 🌹 RWBY Remnant Royale <sub>Created: April 12<sup>th</sup>, 2024</sub>
 * A fanmade game clone of Vampire Survivors in the style of RWBY made in Unity
 
 ### 🛡️ [PALADIN SYSTEM](https://github.com/Zachary-Wittmann/Hackathons/tree/main/PALADIN%20SYSTEM) <sub>Created: March 23<sup>rd</sup>, 2024</sub>
 * Worked alongside peers to create a program to assist with police response time by analyzing prior
-<br/>police reports to better plot patrol routes.
-* The **P**redictive **A**nalytics-Driven **L**aw **A**nd **D**ispatch **I**ntelligence **N**etwork utilized K-Means Clustering
-<br/>to allow the creation of hot-spots that could be used in tandem with Google API to calculate
-<br/>mileage, time, and location information.
+  police reports to better plot patrol routes.
+* The **P**redictive **A**nalytics-Driven **L**aw **A**nd **D**ispatch **I**ntelligence **N**etwork utilized K-Means Clustering to allow the creation of hot-spots that could be used in tandem with Google API to calculate mileage, time, and location information.
 * This project resulted in my team being awarded 3<sup>rd</sup> place at the Smart-Borderland AI Hackathon.
 
 ## 💽 Course Work
@@ -95,6 +96,8 @@ I usually code my projects locally, then saving the code to a local drive.
 ![Zachary-Wittmann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zachary-Wittmann&show_icons=true&theme=synthwave)
 
 ## 📜 Quotes
+> "I ask not for a lighter burden; but for broader shoulders."<br/>— Proverb
+
 > “If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.” <br/>— Musonius Rufus
 
 > “Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.” <br/>― Epicurus
