@@ -93,3 +93,8 @@ I usually code my projects locally, then saving the code to a local drive.
 <br/>However, I am better about live updating the code to this GitHub now.
 
 ![Zachary-Wittmann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zachary-Wittmann&show_icons=true&theme=synthwave)
+
+## 📜 Quotes
+> “If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.” <br/>— Musonius Rufus
+
+> “Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.” <br/>― Epicurus
