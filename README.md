@@ -4,6 +4,8 @@ Hello There! I Am *Zachary Wittmann*, Welcome To My Profile!
 I am an aspiring **Data Analyst** from El Paso, Texas. 
 <br/>I'm currently enrolled at **The University of Texas at El Paso** in Computer Science.
 <br/>**GPA:** [3.81]
+<br/>**MAJOR GPA:** [3.92]
+
 
 I enjoy self-improvement and I take pride in always striving to do better than I did before.
 <br/>I love honing my skills and techniques to become better.
