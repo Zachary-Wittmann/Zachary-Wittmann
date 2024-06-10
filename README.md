@@ -14,6 +14,11 @@ I enjoy self-improvement and I take pride in always striving to do better than I
 ### ⚔️ [ARES SYSTEM](https://github.com/Zachary-Wittmann/Personal-Projects/tree/main/ARES%20SYSTEM) <sub>Created: May 17<sup>th</sup>, 2024</sub>
 * The **A**ssessment of **R**etrospective **E**ngagement **S**cenarios or ARES System is a work in progress that aims to analyze prior engagements throughout different wars in history and try to find patterns between the outcomes of those engagements and the factors that composed the battle.
 
+### ✈️ [MAVERICK](https://github.com/Zachary-Wittmann/MAVERICK) <sub>Created: April 13<sup>th</sup>, 2024</sub>
+* Worked along team members of ***Atlas Development*** during the **Borderland Glitch Game Jam** to create a game in under 48 hours.
+* **MAVERICK** is a Top Gun themed game inspired by the style of 1942/Galaga created within **Unity** and utilizing **GIMP** for asset creation.
+* Further documentation for the game can be found by clicking the title.
+
 ### 🌹 RWBY Remnant Royale <sub>Created: April 12<sup>th</sup>, 2024</sub>
 * A fanmade game clone of Vampire Survivors in the style of RWBY made in Unity
 
