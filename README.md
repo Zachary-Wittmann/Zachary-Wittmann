@@ -23,7 +23,7 @@ I enjoy self-improvement and I take pride in always striving to do better than I
 * A fanmade game clone of Vampire Survivors in the style of RWBY made in Unity
 
 ### 🛡️ [PALADIN SYSTEM](https://github.com/Zachary-Wittmann/Hackathons/tree/main/PALADIN%20SYSTEM) <sub>Created: March 23<sup>rd</sup>, 2024</sub>
-* Worked alongside peers to create a program to assist with police response time by analyzing prior
+* Worked alongside team members of ***Atlas Development*** to create a program to assist with police response time by analyzing prior
   police reports to better plot patrol routes.
 * The **P**redictive **A**nalytics-Driven **L**aw **A**nd **D**ispatch **I**ntelligence **N**etwork utilized K-Means Clustering to allow the creation of hot-spots that could be used in tandem with Google API to calculate mileage, time, and location information.
 * This project resulted in my team being awarded 3<sup>rd</sup> place at the Smart-Borderland AI Hackathon.
