@@ -11,7 +11,7 @@ I enjoy self-improvement and I take pride in always striving to do better than I
 <br/>I love honing my skills and techniques to become better.
 
 ## 📼 Personal Projects
-### ⚔️ [ARES SYSTEM](https://github.com/Zachary-Wittmann/Personal-Projects/tree/main/ARES%20SYSTEM) <sub>Created: May 17<sup>th</sup>, 2024</sub>
+### ⚔️ [ARES SYSTEM](https://github.com/Zachary-Wittmann/ARES-SYSTEM) <sub>Created: May 17<sup>th</sup>, 2024</sub>
 * The **A**ssessment of **R**etrospective **E**ngagement **S**cenarios or ARES System is a work in progress that aims to analyze prior engagements throughout different wars in history and try to find patterns between the outcomes of those engagements and the factors that composed the battle.
 
 ### ✈️ [MAVERICK](https://github.com/Zachary-Wittmann/MAVERICK) <sub>Created: April 13<sup>th</sup>, 2024</sub>
@@ -22,7 +22,7 @@ I enjoy self-improvement and I take pride in always striving to do better than I
 ### 🌹 RWBY Remnant Royale <sub>Created: April 12<sup>th</sup>, 2024</sub>
 * A fanmade game clone of Vampire Survivors in the style of RWBY made in Unity
 
-### 🛡️ [PALADIN SYSTEM](https://github.com/Zachary-Wittmann/Hackathons/tree/main/PALADIN%20SYSTEM) <sub>Created: March 23<sup>rd</sup>, 2024</sub>
+### 🛡️ [PALADIN SYSTEM](https://github.com/Zachary-Wittmann/PALADIN-SYSTEM) <sub>Created: March 23<sup>rd</sup>, 2024</sub>
 * Worked alongside team members of ***Atlas Development*** to create a program to assist with police response time by analyzing prior
   police reports to better plot patrol routes.
 * The **P**redictive **A**nalytics-Driven **L**aw **A**nd **D**ispatch **I**ntelligence **N**etwork utilized K-Means Clustering to allow the creation of hot-spots that could be used in tandem with Google API to calculate mileage, time, and location information.
