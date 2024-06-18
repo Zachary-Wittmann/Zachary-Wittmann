@@ -94,7 +94,7 @@ I am currently a Senior with only **three** classes remaining before my graduati
 ## ⌨️ Most Used Languages
 I can code in various languages. But here's what I have been using most recently.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zachary-Wittmann&langs_count=8&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zachary-Wittmann&langs_count=8&theme=synthwave&size_weight=0&count_weight=0.5)
 
 ## 📊 GitHub Stats
 I usually code my projects locally, then saving the code to a local drive.
