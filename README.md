@@ -87,8 +87,8 @@ I am currently a Senior with only **three** classes remaining before my graduati
 | Date | Accolade/Honor |
 | --- | --- |
 | Fall 2023 | Dean's List |
-| Mar 2024 | 3<sup>rd</sup> Place at Smart-Borderland AI Hackathon |
-| Apr 2024 | Best Technical Skills at Borderland Glitch Game Jam |
+| Mar 2024 | [3<sup>rd</sup> Place at Smart-Borderland AI Hackathon](https://github.com/Zachary-Wittmann/PALADIN-SYSTEM) |
+| Apr 2024 | [Best Technical Skills at Borderland Glitch Game Jam](https://github.com/Zachary-Wittmann/MAVERICK) |
 | Apr 2024 | 4<sup>th</sup> Place at DEVCOM Analysis Center Cybersecurity Event |
 
 ## ⌨️ Most Used Languages
