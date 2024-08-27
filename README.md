@@ -90,6 +90,7 @@ I am currently a Senior with only **three** classes remaining before my graduati
 | Mar 2024 | [3<sup>rd</sup> Place at Smart-Borderland AI Hackathon](https://github.com/Zachary-Wittmann/PALADIN-SYSTEM) |
 | Apr 2024 | [Best Technical Skills at Borderland Glitch Game Jam](https://github.com/Zachary-Wittmann/MAVERICK) |
 | Apr 2024 | 4<sup>th</sup> Place at DEVCOM Analysis Center Cybersecurity Event |
+| Spring 2024 | Dean's List |
 
 ## ⌨️ Most Used Languages
 I can code in various languages. But here's what I have been using most recently.
