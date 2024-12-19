@@ -3,8 +3,7 @@ Hello There! I Am *Zachary Wittmann*, Welcome To My Profile!
 
 I am an aspiring **Data Analyst** from El Paso, Texas. 
 <br/>I'm currently enrolled at **The University of Texas at El Paso** in Computer Science.
-<br/>**GPA:** [3.81]
-<br/>**MAJOR GPA:** [3.92]
+<br/>**BSCS:** Magna Cum Laude
 
 
 I enjoy self-improvement and I take pride in always striving to do better than I did before.
@@ -29,8 +28,16 @@ I enjoy self-improvement and I take pride in always striving to do better than I
 * This project resulted in my team being awarded 3<sup>rd</sup> place at the Smart-Borderland AI Hackathon.
 
 ## 💽 Course Work
-I am currently a Senior with only **three** classes remaining before my graduation.
+I am currently a graduate pursuing a Master of Science in Artificial Intelligence degree.
 <br/>Some relevant courses with their contents are as follows:
+
+### 🤖🧠 Artificial Intelligence [CS 4320]
+
+    ~ Methodologies, approaches, and techniques associated with artificial intelligence.
+    ~ Contents of this course included representation, search strategies, expert systems,
+      and applications therein.
+    ~ Worked alongside peers to create programs that incorporated material taught within the course.
+    Grade: [A]
 
 ### 👨‍💻 Software Engineering Requirements 1 [CS 4310]
 
