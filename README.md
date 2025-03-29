@@ -98,7 +98,8 @@ I am currently a graduate pursuing a Master of Science in Artificial Intelligenc
 | Apr 2024 | [Best Technical Skills at Borderland Glitch Game Jam](https://github.com/Zachary-Wittmann/MAVERICK) |
 | Apr 2024 | 4<sup>th</sup> Place at DEVCOM Analysis Center Cybersecurity Event |
 | Spring 2024 | Dean's List |
-| Fall 2024 | [2<sup>nd</sup> Place at DEVCOM Analysis Center Cybersecurity Event](https://github.com/Zachary-Wittmann/Zachary-Wittmann/blob/main/Accolades%20%26%20Honors/Atlas_DEVCOM_CTF_2nd_Place.png) |
+| Sept 2024 | [2<sup>nd</sup> Place at DEVCOM Analysis Center Cybersecurity Event](https://github.com/Zachary-Wittmann/Zachary-Wittmann/blob/main/Accolades%20%26%20Honors/2024-09-27_DEVCOM_CTF_2nd_Place.png) |
+| Mar 2025 | [1<sup>st</sup> Place at DEVCOM Analysis Center Cybersecurity Event](https://github.com/Zachary-Wittmann/Zachary-Wittmann/blob/main/Accolades%20%26%20Honors/2025-03-28_DEVCOM_CTF_1st_Place.png) |
 
 ## ⌨️ Most Used Languages
 I can code in various languages. But here's what I have been using most recently.
