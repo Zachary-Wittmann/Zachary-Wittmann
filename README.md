@@ -4,6 +4,7 @@ Hello There! I Am *Zachary Wittmann*, Welcome To My Profile!
 I am an aspiring **Data Analyst** from El Paso, Texas. 
 <br/>I'm currently enrolled at **The University of Texas at El Paso** in Computer Science.
 <br/>**BSCS:** Magna Cum Laude
+<br/>**MSAI (Current GPA):** 4.0
 
 
 I enjoy self-improvement and I take pride in always striving to do better than I did before.
@@ -100,6 +101,7 @@ I am currently a graduate pursuing a Master of Science in Artificial Intelligenc
 | Spring 2024 | Dean's List |
 | Sept 2024 | [2<sup>nd</sup> Place at DEVCOM Analysis Center Cybersecurity Event](https://github.com/Zachary-Wittmann/Zachary-Wittmann/blob/main/Accolades%20%26%20Honors/2024-09-27_DEVCOM_CTF_2nd_Place.png) |
 | Mar 2025 | [1<sup>st</sup> Place at DEVCOM Analysis Center Cybersecurity Event](https://github.com/Zachary-Wittmann/Zachary-Wittmann/blob/main/Accolades%20%26%20Honors/2025-03-28_DEVCOM_CTF_1st_Place.png) |
+| Apr 2025 | 1<sup>st</sup> Place at Borderland Glitch Game Jam |
 
 ## ⌨️ Most Used Languages
 I can code in various languages. But here's what I have been using most recently.
